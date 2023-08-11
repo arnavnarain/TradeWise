@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>495189999709-hbok85ktcp5ok4cooo3oc9m5n6v5btgo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.495189999709-hbok85ktcp5ok4cooo3oc9m5n6v5btgo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4XOE5HhygBcPmgVrOoZDEq0CuBZ4SZnI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>495189999709</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.neu.TradeWise</string>
+	<key>PROJECT_ID</key>
+	<string>tradewise-dfcb8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tradewise-dfcb8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:495189999709:ios:51287ed0c69af919e54db4</string>
+</dict>
+</plist>
